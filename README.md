@@ -1,6 +1,5 @@
-### VTUBERのモデレーターになってヤバコメを消去していくゲーム
+### [VTUBERのモデレーターになってヤバコメを消去していくゲーム](https://unityroom.com/games/yabacome)
 #### English Title : HateCommentRemover
-https://unityroom.com/games/yabacome
 
 ##### 概要
 2048がベースの新感覚パズルゲーム。初配信なのにコメントが荒れてしまったVTUBERをモデレーターとして助けましょう。
