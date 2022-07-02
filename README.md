@@ -1,2 +1,2 @@
-## VTUBERのモデレーターになってヤバコメを消去していくゲーム
-### HateCommentRemover
+### VTUBERのモデレーターになってヤバコメを消去していくゲーム
+#### HateCommentRemover
