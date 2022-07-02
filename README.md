@@ -1,4 +1,5 @@
 ### VTUBERのモデレーターになってヤバコメを消去していくゲーム
 #### HateCommentRemover
 
-##### Game discription
+##### 概要Game discription
+2048がベースの新感覚パズルゲーム。初配信なのにコメントが荒れてしまったVTUBERをモデレーターとして助けましょう。
